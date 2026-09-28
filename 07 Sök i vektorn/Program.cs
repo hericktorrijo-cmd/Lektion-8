@@ -1,4 +1,4 @@
-﻿string[] cities = { "stockholm", "valparaiso", "london", "los Angeles" };
+﻿string[] cities = { "stockholm", "valparaiso", "london", "los angeles" };
 
 while(true)
 {
@@ -10,7 +10,7 @@ while(true)
     {
         if(input == cities[i])
         {
-            Console.WriteLine($"Ditt val {input} finns med i listan på plats nummer {i + 1}");
+            Console.WriteLine($"Ditt val {input} och finns med i listan på plats nummer {i + 1}");
             hittad = true;
             break;
         }

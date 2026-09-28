@@ -6,5 +6,8 @@
   <Project Path="05 Skriv ut baklänges/05 Skriv ut baklänges.csproj" Id="2e1b7833-1b96-4037-b732-f35ac94ff176" />
   <Project Path="06  Dynamisk inköpslista/06  Dynamisk inköpslista.csproj" Id="e4adadca-72f3-4156-9b65-29403386ccf0" />
   <Project Path="07 Sök i vektorn/07 Sök i vektorn.csproj" Id="ec3e8261-af21-476a-8b20-3cbefe142749" />
+  <Project Path="08 Betygskollen/08 Betygskollen.csproj" Id="7ac5a64a-948a-4718-9a14-de28a7fbc622" />
+  <Project Path="09 Säkerhetskopian/09 Säkerhetskopian.csproj" Id="5d2811aa-a8e1-4959-b531-d6ee1f1e8000" />
+  <Project Path="10 Användarhantering/10 Användarhantering.csproj" Id="8cbd97d0-9ae4-46ca-ae47-9ae6b77f8023" />
   <Project Path="Test/Test.csproj" />
 </Solution>
