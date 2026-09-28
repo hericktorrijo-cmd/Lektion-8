@@ -2,5 +2,7 @@
   <Project Path="01 Namnlistan/01 Namnlistan.csproj" Id="fcee9a24-082c-456d-b3ea-81712006af80" />
   <Project Path="02 Inköpslistan på rad/02 Inköpslistan på rad.csproj" Id="0e073944-c6eb-41bb-9a17-93099c881498" />
   <Project Path="03 Gästlistan/03 Gästlistan.csproj" Id="6ce37674-5d25-4001-88d6-47957038d75d" />
+  <Project Path="04 Temperaturer/04 Temperaturer.csproj" Id="b834f81a-19d1-4c74-a916-12e3096d8c8d" />
+  <Project Path="05 Skriv ut baklänges/05 Skriv ut baklänges.csproj" Id="2e1b7833-1b96-4037-b732-f35ac94ff176" />
   <Project Path="Test/Test.csproj" />
 </Solution>
