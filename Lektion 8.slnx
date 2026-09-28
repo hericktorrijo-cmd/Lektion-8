@@ -9,5 +9,7 @@
   <Project Path="08 Betygskollen/08 Betygskollen.csproj" Id="7ac5a64a-948a-4718-9a14-de28a7fbc622" />
   <Project Path="09 Säkerhetskopian/09 Säkerhetskopian.csproj" Id="5d2811aa-a8e1-4959-b531-d6ee1f1e8000" />
   <Project Path="10 Användarhantering/10 Användarhantering.csproj" Id="8cbd97d0-9ae4-46ca-ae47-9ae6b77f8023" />
+  <Project Path="11 Detektiven/11 Detektiven.csproj" Id="5b14749e-9f4b-44b0-9602-8b479641a152" />
+  <Project Path="12 inmatning till fast Array/12 inmatning till fast Array.csproj" Id="fd82228c-1804-4317-a601-e06e971c853a" />
   <Project Path="Test/Test.csproj" />
 </Solution>
