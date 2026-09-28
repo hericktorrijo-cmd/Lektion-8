@@ -4,5 +4,6 @@
   <Project Path="03 Gästlistan/03 Gästlistan.csproj" Id="6ce37674-5d25-4001-88d6-47957038d75d" />
   <Project Path="04 Temperaturer/04 Temperaturer.csproj" Id="b834f81a-19d1-4c74-a916-12e3096d8c8d" />
   <Project Path="05 Skriv ut baklänges/05 Skriv ut baklänges.csproj" Id="2e1b7833-1b96-4037-b732-f35ac94ff176" />
+  <Project Path="06  Dynamisk inköpslista/06  Dynamisk inköpslista.csproj" Id="e4adadca-72f3-4156-9b65-29403386ccf0" />
   <Project Path="Test/Test.csproj" />
 </Solution>
